@@ -2,7 +2,9 @@
 
 ## Important! ##
 #### This repository is now archived as I am no longer a nordlayer user and ####
-#### hence will not be able to maintain it. You are welcome to fork it if interested ####
+#### hence will not be able to maintain it. You are welcome to fork it if interested. ####
+#### This app is now maintained at [github.com/Sidicer/nordlayer](https://github.com/Sidicer/nordlayer). ####
+#### Thanks to [@Sidicer](https://github.com/Sidicer) :) ####
 
 
 To check if the repo is upto date with the official
